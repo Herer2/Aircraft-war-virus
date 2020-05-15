@@ -1,0 +1,40 @@
+/* 天空 */
+
+#sky {
+    background-image: url('../assets/img/city_2.jpg');
+    height: 600px;
+}
+
+
+/* 🛩 战斗机 */
+
+#f {
+    position: absolute;
+    font-size: xx-large;
+}
+
+
+/* 😷 f_bullet */
+
+.f_bullet {
+    position: absolute;
+}
+
+
+/* 云 */
+
+.cloud {
+    position: absolute;
+    pointer-events: none;
+    /* 鼠标事件向下穿透 */
+    z-index: 1;
+    opacity: 0.9;
+}
+
+
+/* 新冠病毒 */
+
+.virus {
+    position: absolute;
+    pointer-events: none;
+}

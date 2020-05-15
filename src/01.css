@@ -1,0 +1,14 @@
+/* 天空 */
+
+#sky {
+    background-image: url('../assets/img/city_2.jpg');
+    height: 600px;
+}
+
+
+/* 🛩 战斗机 */
+
+#f {
+    position: absolute;
+    font-size: xx-large;
+}
